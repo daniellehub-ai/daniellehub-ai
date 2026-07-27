@@ -42,4 +42,4 @@ The prompt design and evaluation discipline underlying both projects above: vers
 
 ---
 
-📍 Alexandria, VA · [LinkedIn](#) · [Email](mailto:daniellehendon1@gmail.com)
+📍 Alexandria, VA · [Email](mailto:daniellehendon1@gmail.com)
